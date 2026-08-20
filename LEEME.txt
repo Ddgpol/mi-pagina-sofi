@@ -1,0 +1,11 @@
+SOFIS CROCHET - PÁGINA WEB
+
+Abrí index.html en un navegador para ver la página.
+
+Para dejarla lista para vender:
+1. Reemplazar los textos "$ —" por tus precios.
+2. Cambiar los enlaces de WhatsApp e Instagram por los tuyos.
+3. Reemplazar los cuadros "📷 Foto del producto" por las fotos reales de tus tejidos.
+4. Si querés publicarla en Internet, podés subir el archivo index.html a un servicio de alojamiento web.
+
+La estructura ya está preparada para celular y computadora.
